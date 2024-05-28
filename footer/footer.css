@@ -1,0 +1,9 @@
+.footter {
+    background-color: rgb(170, 172, 172);
+    grid-column: 1/6;
+    grid-row: 3/3;
+}
+
+.sis .sisi1  {
+    color: black;
+}
